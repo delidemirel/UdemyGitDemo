@@ -6,4 +6,9 @@ public class GitDemo {
         System.out.println("GOODBYE");
         System.out.println("Hatice");
     }
+
+    public void getData(){
+        System.out.println("getdata");
+
+    }
 }
